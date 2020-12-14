@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\bin\Release\Visual studio_Assignment.exe.config
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\bin\Release\Visual studio_Assignment.exe
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\bin\Release\Visual studio_Assignment.pdb
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\obj\Release\Visual_studio_Assignment.Form1.resources
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\obj\Release\Visual_studio_Assignment.Properties.Resources.resources
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\obj\Release\Visual studio_Assignment.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\obj\Release\Visual studio_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\obj\Release\Visual studio_Assignment.exe
+C:\Users\user\Desktop\Visual studio_Assignment\Visual studio_Assignment\obj\Release\Visual studio_Assignment.pdb

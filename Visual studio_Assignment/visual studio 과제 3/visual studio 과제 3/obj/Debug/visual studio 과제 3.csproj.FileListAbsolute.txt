@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\bin\Debug\visual studio 과제 3.exe.config
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\bin\Debug\visual studio 과제 3.exe
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\bin\Debug\visual studio 과제 3.pdb
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\obj\Debug\visual studio 과제 3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\obj\Debug\visual_studio_과제_3.Form1.resources
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\obj\Debug\visual_studio_과제_3.Properties.Resources.resources
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\obj\Debug\visual studio 과제 3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\obj\Debug\visual studio 과제 3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\obj\Debug\visual studio 과제 3.exe
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 3\visual studio 과제 3\obj\Debug\visual studio 과제 3.pdb

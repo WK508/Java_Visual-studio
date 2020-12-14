@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "visual studio 과제 3", "visual studio 과제 3\visual studio 과제 3.csproj", "{13E40212-8DBD-451F-A3CB-D8EF8300B8F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E40212-8DBD-451F-A3CB-D8EF8300B8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E40212-8DBD-451F-A3CB-D8EF8300B8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E40212-8DBD-451F-A3CB-D8EF8300B8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E40212-8DBD-451F-A3CB-D8EF8300B8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED24D7D-6DBC-4913-A0B3-CBB7EB2C0B3D}
+	EndGlobalSection
+EndGlobal

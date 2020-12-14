@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\bin\Release\visual studio 과제 2.exe.config
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\bin\Release\visual studio 과제 2.exe
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\bin\Release\visual studio 과제 2.pdb
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\obj\Release\visual_studio_과제_2.Form1.resources
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\obj\Release\visual_studio_과제_2.Properties.Resources.resources
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\obj\Release\visual studio 과제 2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\obj\Release\visual studio 과제 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\obj\Release\visual studio 과제 2.exe
+C:\Users\user\Desktop\Visual studio_Assignment\visual studio 과제 2\visual studio 과제 2\obj\Release\visual studio 과제 2.pdb
